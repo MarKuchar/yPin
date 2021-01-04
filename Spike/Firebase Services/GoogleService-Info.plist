@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>983534312327-8slf8p0j1644ilbhtqdrm70uv52u3ekh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.983534312327-8slf8p0j1644ilbhtqdrm70uv52u3ekh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDCt0jsGaqZFe5sboS85iLXzEROQxQ95E0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>983534312327</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>version1.Spike</string>
+	<key>PROJECT_ID</key>
+	<string>spike-v1-7a7bf</string>
+	<key>STORAGE_BUCKET</key>
+	<string>spike-v1-7a7bf.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<true></true>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:983534312327:ios:ff85351a6db7ef535ed122</string>
+	<key>DATABASE_URL</key>
+	<string>https://spike-v1-7a7bf.firebaseio.com</string>
+</dict>
+</plist>
