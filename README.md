@@ -15,6 +15,7 @@
 
 ### Collaboration with GitHub Contributors:
 - Software Developer: [@cayomesquita](https://github.com/cayomesquita)
+- Software Developer: [@markuchar](https://github.com/MarKuchar)
 - Designer: [@tusharhchhabra](https://github.com/tusharhchhabra)
 
 ## Installation
